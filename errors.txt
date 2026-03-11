@@ -1,0 +1,3 @@
+src/app/admissions/page.tsx(4,31): error TS2724: '"lucide-react"' has no exported member named 'CalendarAlert'. Did you mean 'CalendarHeart'?
+src/app/faq/page.tsx(58,36): error TS2322: Type '{ children: Element[]; type: string; collapsible: true; className: string; }' is not assignable to type 'IntrinsicAttributes & AccordionRootProps'.
+  Property 'type' does not exist on type 'IntrinsicAttributes & AccordionRootProps'.
